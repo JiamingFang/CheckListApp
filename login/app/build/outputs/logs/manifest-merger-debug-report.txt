@@ -1,0 +1,168 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:design:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6c2190b821eafb82f1dd6e022067c18f/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a65943534597f2d3c3bf9477d2d1a4bf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jiaming/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c6842490372828346b0d2dc17ddfe9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a9a8fdcee2791f9ec04cb4ec01ff69ab/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/19395a2441f4397c6c70ee7cd15801d8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a501ba903027f67194cd100478026801/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a0e44969b0984cd00ddfa992dbb23123/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/98d872a7c847b99faee0a335ae6b97ca/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4d4644f63e5bc5984f1a15adf299bb06/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b90fee43e6de375a6160ec383ae5d139/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a021b96203e451b328ea9e6367018801/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/941d03a44e8c7a7acfaf138231380f60/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2657cdfca9f9c77c035bd7c3a1e423d0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e6da0c9e5885bab147a9cb916602a4d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8dfaa3e8a231c616b638f0c9fe01df2f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a5d229842f68db4d3e0928911dcea3f3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7e45caef13894078854b0270553093c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/454929d083999a47f715ee66776ee993/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4e2dffd1170b53cf4a02cda269c0a8dc/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/616de173ee12e6f5dd4ce6a7252bc0bb/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a93d3e0b88dcf03a3dd7230d04aeeee9/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b14c89c573770c6717438a217ea5c135/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd497b662e909460c99d9f1623324c33/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b7fdd0d08e54c951e746cd840d75cc8d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fefc60e3fc28d520f71204506aff5bda/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f49c7485598b7e294f7d1e33962002bb/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/929e76fa98f795d983aaa6129535860d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1c1e2300294d9ff33e332478309ec55d/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0aae7ce61b2b9386b5e8e2d514d5b949/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/96371e48b3902418a7c7e51bd792bbf2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88609e978f8ebbdf0aa1ca2e4788a9b2/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:5:3-19:17
+MERGED from [com.android.support:design:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6c2190b821eafb82f1dd6e022067c18f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6c2190b821eafb82f1dd6e022067c18f/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jiaming/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c6842490372828346b0d2dc17ddfe9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jiaming/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c6842490372828346b0d2dc17ddfe9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4e2dffd1170b53cf4a02cda269c0a8dc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4e2dffd1170b53cf4a02cda269c0a8dc/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/616de173ee12e6f5dd4ce6a7252bc0bb/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/616de173ee12e6f5dd4ce6a7252bc0bb/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4e2dffd1170b53cf4a02cda269c0a8dc/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:8:7-27
+	android:roundIcon
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:7:7-47
+	android:allowBackup
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:11:7-57
+activity#com.example.jiaming.login.MainActivity
+ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:12:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:14:9-60
+	android:name
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:16:9-68
+	android:name
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6c2190b821eafb82f1dd6e022067c18f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/6c2190b821eafb82f1dd6e022067c18f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a65943534597f2d3c3bf9477d2d1a4bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/a65943534597f2d3c3bf9477d2d1a4bf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jiaming/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c6842490372828346b0d2dc17ddfe9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/jiaming/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/96c6842490372828346b0d2dc17ddfe9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a9a8fdcee2791f9ec04cb4ec01ff69ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/a9a8fdcee2791f9ec04cb4ec01ff69ab/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/19395a2441f4397c6c70ee7cd15801d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/19395a2441f4397c6c70ee7cd15801d8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a501ba903027f67194cd100478026801/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/a501ba903027f67194cd100478026801/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a0e44969b0984cd00ddfa992dbb23123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/a0e44969b0984cd00ddfa992dbb23123/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/98d872a7c847b99faee0a335ae6b97ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/98d872a7c847b99faee0a335ae6b97ca/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4d4644f63e5bc5984f1a15adf299bb06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/4d4644f63e5bc5984f1a15adf299bb06/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b90fee43e6de375a6160ec383ae5d139/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/b90fee43e6de375a6160ec383ae5d139/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a021b96203e451b328ea9e6367018801/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/a021b96203e451b328ea9e6367018801/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/941d03a44e8c7a7acfaf138231380f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/941d03a44e8c7a7acfaf138231380f60/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2657cdfca9f9c77c035bd7c3a1e423d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/2657cdfca9f9c77c035bd7c3a1e423d0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e6da0c9e5885bab147a9cb916602a4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/2e6da0c9e5885bab147a9cb916602a4d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8dfaa3e8a231c616b638f0c9fe01df2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/8dfaa3e8a231c616b638f0c9fe01df2f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a5d229842f68db4d3e0928911dcea3f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/a5d229842f68db4d3e0928911dcea3f3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7e45caef13894078854b0270553093c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/7e45caef13894078854b0270553093c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/454929d083999a47f715ee66776ee993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/454929d083999a47f715ee66776ee993/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4e2dffd1170b53cf4a02cda269c0a8dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/4e2dffd1170b53cf4a02cda269c0a8dc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/616de173ee12e6f5dd4ce6a7252bc0bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/616de173ee12e6f5dd4ce6a7252bc0bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a93d3e0b88dcf03a3dd7230d04aeeee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/a93d3e0b88dcf03a3dd7230d04aeeee9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b14c89c573770c6717438a217ea5c135/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/b14c89c573770c6717438a217ea5c135/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd497b662e909460c99d9f1623324c33/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/bd497b662e909460c99d9f1623324c33/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b7fdd0d08e54c951e746cd840d75cc8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/b7fdd0d08e54c951e746cd840d75cc8d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fefc60e3fc28d520f71204506aff5bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fefc60e3fc28d520f71204506aff5bda/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f49c7485598b7e294f7d1e33962002bb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f49c7485598b7e294f7d1e33962002bb/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/929e76fa98f795d983aaa6129535860d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/929e76fa98f795d983aaa6129535860d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1c1e2300294d9ff33e332478309ec55d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/jiaming/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/1c1e2300294d9ff33e332478309ec55d/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0aae7ce61b2b9386b5e8e2d514d5b949/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/0aae7ce61b2b9386b5e8e2d514d5b949/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/96371e48b3902418a7c7e51bd792bbf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/96371e48b3902418a7c7e51bd792bbf2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88609e978f8ebbdf0aa1ca2e4788a9b2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/jiaming/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/88609e978f8ebbdf0aa1ca2e4788a9b2/AndroidManifest.xml:20:5-44
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+		ADDED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
+		INJECTED from /home/jiaming/Desktop/login/app/src/main/AndroidManifest.xml
